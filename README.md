@@ -1,2 +1,3 @@
 # LS-Photonic-Processors-Survey
-This repository provides comprehensive data on photonic integrated circuits and analyses its evolution over the years in terms of integration density and other performance metrics. The idea of the study is to extract the roadmap of photonic integration based on the scalability trends oberseved.
+This repository offers extensive data on photonic integrated circuits and examines their evolution over time in terms of integration density and other performance metrics. The objective of the study is to derive a roadmap for photonic integration based on the scalability trends observed.
+
