@@ -5,11 +5,5 @@ Please cite as follows:
 
 D. Pérez-López and L. Torrijos-Morán, "Large-scale photonic processors and their applications" [In Review].
 
-@misc{large_scale_PIC_evolution,
-   author = {Pérez-López, Daniel and Torrijos-Morán, Luis},
-   title = {Large-scale photonic processors and their applications},
-   note = {In Review}
-}
-
 Updated March 2025.
 
